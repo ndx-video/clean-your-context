@@ -88,3 +88,7 @@ Sources consulted when designing this prompt:
 - [Cursor: Rules](https://cursor.com/docs/context/rules) — `.mdc` frontmatter, `globs` / `alwaysApply` / `description`, nested AGENTS.md
 - [OpenCode: Rules](https://opencode.ai/docs/rules/) — AGENTS.md precedence, progressive disclosure via `instructions`, Claude Code compatibility
 - [OpenCode: Config](https://opencode.ai/docs/config/) — `instructions` array, compaction settings, `.opencode/` directory structure
+
+## For minimalist context engineering
+
+Tell your agent to `implement https://github.com/ndx-video/DotProgress` (no need to clone it). 
